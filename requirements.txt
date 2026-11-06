@@ -1,0 +1,8 @@
+unsloth
+torch
+vllm
+datasets
+trl
+pandas
+matplotlib
+ipython-autotime
